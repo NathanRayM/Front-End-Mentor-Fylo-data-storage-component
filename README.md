@@ -1,11 +1,11 @@
-![Fylo data storage component](https://github.com/NathanRayM/Clipboard-landing-page/blob/main/desktop-design.jpg)
+![Fylo data storage component](https://github.com/NathanRayM/Front-End-Mentor-Fylo-data-storage-component/blob/main/desktop-design.jpg)
 
 <h1 align="center">Fylo data storage component</h1>
 
 <div align="center">
 
-[Live](https://nathanraym.github.io/Clipboard-landing-page//)
-| [Solution](https://github.com/NathanRayM/Clipboard-landing-page.git)
+[Live](https://nathanraym.github.io/Front-End-Mentor-Fylo-data-storage-component/)
+| [Solution](https://github.com/NathanRayM/Front-End-Mentor-Fylo-data-storage-component.git)
 | [Challenge](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
@@ -14,7 +14,7 @@ Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/
 
 ## About The Project
 
-Put your layout skills to the test with this HTML & CSS landing page challenge. This challenge includes a design for hover states.
+This component has some interesting CSS challenges in the design. If you're looking to test your CSS skills, this will be a great project for you!
 
 ## Built with
 
@@ -26,7 +26,7 @@ Put your layout skills to the test with this HTML & CSS landing page challenge. 
 
 ## What I learned
 
-This was great for practicing more of the HTML and CSS box model, flex, responsive design, and I added a very small amount of JavaScript.
+This was great for practicing more of the HTML and CSS box model, flex, and sharpening my skills for responsive design. I did also add a little javascript for the slider instead of it just being a static design.
 
 ## Acknowledgments
 
