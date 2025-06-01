@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--google font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Frontend Mentor | Fylo data storage component</title>
+  </head>
+  <body>
+    <!--start main section-->
+    <main class="main-section">
+      <!--start left section-->
+      <section class="left-section">
+        <div class="left-section-icon-one">
+          <img src="images/logo.svg" alt="" />
+        </div>
+        <div class="left-section-icon-two">
+          <img src="images/icon-document.svg" alt="" />
+          <img src="images/icon-folder.svg" alt="" />
+          <img src="images/icon-upload.svg" alt="" />
+        </div>
+      </section>
+      <!--end left section-->
+      <!--start right section-->
+      <section class="right-section">
+        <p class="data-alert">
+          You've Used <strong>815 GB</strong> of your storage
+        </p>
+        <div class="slider-wrapper">
+          <input
+            type="range"
+            min="0"
+            max="100"
+            value="50"
+            class="gradient-slider"
+            id="slider"
+          />
+          <div class="data-container">
+            <p class="data">0 GB</p>
+            <p class="data">1000 GB</p>
+          </div>
+        </div>
+        <div class="bubble">
+          <strong class="bubble-strong">185</strong>
+          <span class="bubble-span">GB LEFT</span>
+        </div>
+      </section>
+      <!--end right section-->
+    </main>
+    <!--end main section-->
+    <script src="main.js"></script>
+  </body>
+</html>
